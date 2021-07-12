@@ -13,13 +13,13 @@ I have uploaded the code that I have soo far in these repositories:
 Any inputs on any part of the project is appreciated. 
 
 <p float="left">
-  <img src="01_Images/Plane/Plane1.jpg" alt="How it started" width="40%" />
-  <img src="01_Images/Plane/Plane2.jpg" alt="Fuselage" width="40%" /> 
-  <img src="01_Images/Plane/Plane3.jpg" alt="Wings" width="40%" />
-  <img src="01_Images/Plane/Plane4.jpg" alt="Wings taking shape" width="40%" />
-  <img src="01_Images/Plane/Plane5.jpg" alt="Front" width="40%" />
-  <img src="01_Images/Plane/Plane6.jpg" alt="Rear" width="40%" />
-  <img src="01_Images/Plane/Plane7.jpg" alt="Almost complete" width="40%" />
+  <img src="01_Images/Plane/Plane1.jpg" alt="How it started" width="30%" />
+  <img src="01_Images/Plane/Plane2.jpg" alt="Fuselage" width="30%" /> 
+  <img src="01_Images/Plane/Plane3.jpg" alt="Wings" width="30%" />
+  <img src="01_Images/Plane/Plane4.jpg" alt="Wings taking shape" width="30%" />
+  <img src="01_Images/Plane/Plane5.jpg" alt="Front" width="30%" />
+  <img src="01_Images/Plane/Plane6.jpg" alt="Rear" width="30%" />
+  <img src="01_Images/Plane/Plane7.jpg" alt="Almost complete" width="30%" />
 </p>
 <br>
 <br>
